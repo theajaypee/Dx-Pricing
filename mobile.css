@@ -6,33 +6,28 @@
     flex-direction: column;
 
 }
-.mobile-button {
-    background: #D9D9D9;
-    height: 40px;
-    width: 300px;
-    font-size: 25px;
-    font-weight: bolder;
-    text-align: center;
-    padding:5px 0;
-    border-radius: 10px;
-    margin-top: 40px;
-}
-}
+
 
 .header-section {
     display: none;
 }
 
 
+
+
+
+
 .main-section {
     flex-direction: column;
-    align-items: center;
-    
+    align-items: center; 
 }
-/* .main-text {
-    width: 100%;
-    margin: 0 auto;
-} */
+
+
+
+
+
+
+
 
 .borderline {
     border-left: none;
